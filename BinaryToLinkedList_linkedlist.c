@@ -1,4 +1,4 @@
-/* status -
+/* status - not yet done
 desc - 14. **Convert Binary Number in a Linked List to Integer** [Easy] - *Why:* Directly reads bit values from a list, simulating data parsing .
 */
 #include <stdio.h>
