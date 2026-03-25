@@ -4,7 +4,7 @@ description **Find All Numbers Disappeared in an Array** [Easy] - *Why:* Using t
 
 #include <stdio.h>
 void insertion_sort(int *arr,int size);
-void disappered_is(int* arr,size);
+void disappered_is(int* arr,int size);
 int main(){
     return 0;
 }
@@ -20,5 +20,13 @@ void insertion_sort(int *arr,int size){
     }
 }
 void disappered_is(int* arr,size){
-    //do here
+    
+    insertion_sort(&arr,size);
+    int key_begin = arr[0];
+    int key_end = arr[size];
+    int temp = 0;
+    while(temp >= arr[size]){
+        
+
+    }
 }
