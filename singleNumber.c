@@ -29,7 +29,7 @@ int main(){
     printBinary(rand);
     rand ^= 0b01;
     printBinary(rand);
-    printf("xor operation 0b11111111; \n");
+    printf("xor operation 11111110; \n");
     rand ^= 0b101101;
     printBinary(rand);
     printf("toggling a bit\n");  // all bits are toggling by the not operator 
