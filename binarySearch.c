@@ -1,4 +1,5 @@
-/* desc- **Binary Search** [Easy] - *Why:* Off-by-one discipline is mandatory for reliable firmware .
+/* status - done
+desc- **Binary Search** [Easy] - *Why:* Off-by-one discipline is mandatory for reliable firmware .
 */
 
 #include <stdio.h>
