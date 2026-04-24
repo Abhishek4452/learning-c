@@ -1,4 +1,4 @@
-/* status - 
+/* status -  done
 42. **Squares of a Sorted Array** [Easy] - *Why:* Two-pointer technique on sorted data .*/
 
 #include <stdio.h>
